@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\C#\Class\Class_Object\Class_Object\bin\Debug\net6.0\Class_Object.exe
+C:\Users\Acer\Desktop\C#\Class\Class_Object\Class_Object\bin\Debug\net6.0\Class_Object.deps.json
+C:\Users\Acer\Desktop\C#\Class\Class_Object\Class_Object\bin\Debug\net6.0\Class_Object.runtimeconfig.json
+C:\Users\Acer\Desktop\C#\Class\Class_Object\Class_Object\bin\Debug\net6.0\Class_Object.dll
+C:\Users\Acer\Desktop\C#\Class\Class_Object\Class_Object\bin\Debug\net6.0\Class_Object.pdb
+C:\Users\Acer\Desktop\C#\Class\Class_Object\Class_Object\obj\Debug\net6.0\Class_Object.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C#\Class\Class_Object\Class_Object\obj\Debug\net6.0\Class_Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C#\Class\Class_Object\Class_Object\obj\Debug\net6.0\Class_Object.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C#\Class\Class_Object\Class_Object\obj\Debug\net6.0\Class_Object.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C#\Class\Class_Object\Class_Object\obj\Debug\net6.0\Class_Object.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C#\Class\Class_Object\Class_Object\obj\Debug\net6.0\Class_Object.dll
+C:\Users\Acer\Desktop\C#\Class\Class_Object\Class_Object\obj\Debug\net6.0\refint\Class_Object.dll
+C:\Users\Acer\Desktop\C#\Class\Class_Object\Class_Object\obj\Debug\net6.0\Class_Object.pdb
+C:\Users\Acer\Desktop\C#\Class\Class_Object\Class_Object\obj\Debug\net6.0\Class_Object.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C#\Class\Class_Object\Class_Object\obj\Debug\net6.0\ref\Class_Object.dll
